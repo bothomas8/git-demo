@@ -2,14 +2,5 @@
 
 This is the file in this repo.
 
-## Ipsum Below
-
-asdddddddddddddddddddddddddddd
-adfsdafaf
-waefsdasdffwef
-adfasdfasdfewfsadasdfawefadsf
-waefsdfscvwadf
-
-
-sdfsdfsdfg
-weafawefawef
+## Website contents
+1. index.html
